@@ -9,3 +9,5 @@ Created on Mon Oct  2 18:41:24 2023
 def area_rectangles(length,width):
     area = float(length) * float(width)
     return area
+
+print ('can you see this')
